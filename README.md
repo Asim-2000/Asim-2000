@@ -13,6 +13,11 @@
 
 1. ML Projects
 2. Research and Development 
+
+ 📫 How to reach me: ...
+ 
+ 1. Linkedin : https://www.linkedin.com/in/asim-khaskheli/
+ 2. Gmail : m.asimkhaskheli@gmail.com
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
