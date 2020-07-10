@@ -5,6 +5,14 @@
 1. Deep learning projects.
 2. Computer Vision projects.
 
+ 🌱 I’m currently learning ...
+ 1. Computer Vision 
+ 2. Competitive Programming
+
+👯 I’m looking to collaborate on ...
+
+1. ML Projects
+2. Research and Development 
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
