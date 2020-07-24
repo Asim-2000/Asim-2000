@@ -18,6 +18,9 @@
  
  1. Linkedin : https://www.linkedin.com/in/asim-khaskheli/
  2. Gmail : m.asimkhaskheli@gmail.com
+ 
+ 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Asim-2000a&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
