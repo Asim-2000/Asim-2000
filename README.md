@@ -3,7 +3,8 @@
 
 ## ABOUT ME
 I am Muhammad Asim, A Machine Learning and Deep Learning Enthsiast. Currently I am working as a Research Intern at TUKL,NUST. 
- 🔭 I’m currently working on ...
+
+🔭 I’m currently working on ...
 1. Deep learning projects.
 2. Computer Vision projects.
 
