@@ -24,7 +24,7 @@ I am Muhammad Asim, A Machine Learning and Deep Learning Enthusiast. Currently I
  3. Kaggle : https://www.kaggle.com/muhammadasim2000
  4. dev.to : https://dev.to/asimdev
  5. Twitter : https://twitter.com/MohdAsim2000
- 
+ [![Muhammad Asim's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/asimdev)
  
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
