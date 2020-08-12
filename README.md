@@ -23,6 +23,7 @@ I am Muhammad Asim, A Machine Learning and Deep Learning Enthusiast. Currently I
  2. Gmail : m.asimkhaskheli@gmail.com
  3. Kaggle : https://www.kaggle.com/muhammadasim2000
  4. dev.to : https://dev.to/asimdev
+ 5. Twitter : https://twitter.com/MohdAsim2000
  
  
 <!--
