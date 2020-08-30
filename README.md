@@ -2,7 +2,7 @@
 ![alt text](https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg)
 
 ## ABOUT ME
-I am Muhammad Asim, A Machine Learning and Deep Learning Enthusiast. Currently I am working as a Research Intern at TUKL, NUST. 
+I am Muhammad Asim, A Deep Learning and Cloud Computing Enthusiast. Currently I am working as a Research Intern at TUKL, NUST. 
 
 🔭 I’m currently working on ...
 1. Open Source Contribution
