@@ -8,9 +8,7 @@ I am Muhammad Asim, A Deep Learning and Cloud Computing Enthusiast. Currently I 
 1. Open Source Contribution
 2. Super Resolution 
 
- 🌱 I’m currently learning ...
- 1. Computer Vision 
- 2. Competitive Programming
+🌱 I’m currently learning Cloud Computing
 
 👯 I’m looking to collaborate on ...
 
