@@ -23,8 +23,7 @@ I am Muhammad Asim, A Deep Learning and Cloud Computing Enthusiast. Currently I 
  4. dev.to : https://dev.to/asimdev2000
  5. Twitter : https://twitter.com/asimdev2000
  
- ⚡ Get to know the implementation of some cool things on my medium profile: ...
- Medium : https://medium.com/@Asim2000
+ ⚡ Get to know the implementation of some cool things on my medium profile: https://medium.com/@Asim2000
   
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
