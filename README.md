@@ -23,7 +23,7 @@ I am Muhammad Asim, A Deep Learning and Cloud Computing Enthusiast. Currently I 
  4. dev.to : https://dev.to/asimdev2000
  5. Twitter : https://twitter.com/asimdev2000
  
- ⚡ Get to know the implementation of some cool things on my medium profile:
+ ⚡ Get to know the implementation of some cool things on my medium profile: ...
  Medium : https://medium.com/@Asim2000
   
 <!--
