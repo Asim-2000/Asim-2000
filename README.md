@@ -22,13 +22,14 @@ Campus Lead at Hack Club
 1. ML Projects
 2. Research and Development 
 
- 📫 How to reach me: ...
+ 📫 Connect with me: ...
  
  1. Linkedin : https://www.linkedin.com/in/asim-khaskheli/
  2. Gmail : m.asimkhaskheli@gmail.com
  3. Kaggle : https://www.kaggle.com/muhammadasim2000
  4. dev.to : https://dev.to/asimdev2000
  5. Twitter : https://twitter.com/asimdev2000
+ 6. Website : https://asim-2000.github.io
  
  ⚡ Get to know the implementation of some cool things on my medium profile: https://medium.com/@Asim2000
   
