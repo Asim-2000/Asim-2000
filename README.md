@@ -2,11 +2,14 @@
 ![alt text](https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg)
 
 ## ABOUT ME
-I am Muhammad Asim, 
-A Deep Learning and Cloud Computing Enthusiast.
-Research Intern at TUKL - NUST Research and Development Lab.
-AI/ML Lead at DSC-NUST.
-JS Technical at CSC-NUST.
+<pre>
+I am ..
+A Deep Learning and Cloud Computing Enthusiast
+Research Intern at TUKL - NUST Research and Development Lab
+AI/ML Lead at DSC-NUST
+JS Technical and Partnerships at CSC-NUST
+Campus Lead at Hack Club
+</pre>
 
 🔭 I’m currently working on ...
 1. Open Source Contribution
