@@ -15,7 +15,7 @@ Campus Lead at Hack Club
 1. Open Source Contribution
 2. Super Resolution 
 
-🌱 I’m currently learning Cloud Computing
+🌱 I’m currently learning Firebase
 
 👯 I’m looking to collaborate on ...
 
