@@ -1,4 +1,5 @@
 ### Welcome to My Github Profile 
+![](https://komarev.com/ghpvc/?username=Asim-2000&label=PROFILE+VIEWS&style=plastic&color=blueviolet)
 ![alt text](https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg)
 
 ## ABOUT ME
