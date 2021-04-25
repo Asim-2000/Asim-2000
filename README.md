@@ -34,6 +34,8 @@ Campus Lead at Hack Club
  6. Website : https://asim-2000.github.io
  
  ⚡ Get to know the implementation of some cool things on my medium profile: https://medium.com/@Asim2000
+ 
+ ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true)
   
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
