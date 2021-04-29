@@ -1,7 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
-<img src="https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg" alt="Asim Logo" width="50%" height="50%" class="center">
 #### My GitHub Profile Visitors:
 ![](https://komarev.com/ghpvc/?username=Asim-2000&label=Visitors&style=plastic&color=blueviolet)
+<img src="https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg" alt="Asim Logo" class="center">
+
 - 🔭 I’m currently working on **Django / Backend Development**
 
 - 🌱 I’m currently learning **Docker**
