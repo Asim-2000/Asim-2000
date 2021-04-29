@@ -3,28 +3,16 @@
 ![](https://komarev.com/ghpvc/?username=Asim-2000&label=Visitors&style=plastic&color=blueviolet)
 ![alt text](https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg)
 
-## ABOUT ME
-<pre>
-I am ..
-A Deep Learning and Cloud Computing Enthusiast
-Research Intern at TUKL - NUST Research and Development Lab
-AI/ML Lead at DSC-NUST
-JS Technical and Partnerships at CSC-NUST
-Campus Lead at Hack Club
-</pre>
+<h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
+- 🔭 I’m currently working on **Django / Backend Development**
 
-🔭 I’m currently working on ...
-1. Open Source Contribution
-2. Super Resolution 
+- 🌱 I’m currently learning **Docker**
 
-🌱 I’m currently learning Firebase
+- 🤝 I’m looking for help with **Docker & Kubernetes**
 
-👯 I’m looking to collaborate on ...
+- 💬 Ask me about **React, Python, Django**
 
-1. ML Projects
-2. Research and Development 
-
- 📫 Connect with me: ...
+- 📫 Connect with me: ...
  
  1. Linkedin : https://www.linkedin.com/in/asim-khaskheli/
  2. Gmail : m.asimkhaskheli@gmail.com
