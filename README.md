@@ -17,8 +17,9 @@ I'm
 - Writer✒️
 </br>
 
+<p align="center">
 <img align="center" width="450px" src="https://raw.githubusercontent.com/Asim-2000/Asim-2000/master/First%20Logo.jpg" />
-
+</p>
 <h2 style="text-align:center">About Me</h2>
 
 - 🔭 I’m currently working on **Django / Backend Development**
