@@ -1,4 +1,4 @@
-<p align='center'>
+<p align="center">
 
 # Heyy ! I am [Muhammad Asim](https://asim-2000.github.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
  
@@ -20,7 +20,8 @@ I'm
 <p align="center">
 <img align="center" width="450px" src="https://raw.githubusercontent.com/Asim-2000/Asim-2000/master/First%20Logo.jpg" />
 </p>
-<h2 style="text-align:center">About Me</h2>
+
+<h2 align="center">About Me</h2>
 
 - 🔭 I’m currently working on **Django / Backend Development**
 
@@ -62,7 +63,7 @@ I'm
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
- <h2 style="text-align:center"> Tools and Technologies</h2>
+ <h2 align="center"> Tools and Technologies</h2>
 
 <center>
 
