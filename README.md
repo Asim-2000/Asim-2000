@@ -56,7 +56,7 @@
 
 <center>
 
-<div>
+<p align="center>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -102,8 +102,9 @@
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-</div>
-</center>
+</p>
+
+
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
