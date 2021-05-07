@@ -24,30 +24,37 @@
 - 💬 Ask me about **React, Python, Django**
 
 - 📫 Connect with me: ...
+<center>
 
 <div> 
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/asim-khaskheli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/asimdev2000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href =""><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+<a href ="https://dev.to/asimdev2000"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
-<a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
-<a href=""><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-<a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://medium.com/@Asim2000"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a>
+<a href="https://www.facebook.com/asim.khaskheli/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+<a href="https://www.instagram.com/asimhere___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 </div>
  
+ </center>
 
  <h2 style="text-align:center">My GitHub Stats</h2>
   
+  <center>
+
  ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true)
 
+</center>
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
  <h2 style="text-align:center"> Tools and Technologies</h2>
+
+<center>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -93,8 +100,7 @@
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
-
-
+</center>
 <!--
 **Asim-2000/Asim-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
