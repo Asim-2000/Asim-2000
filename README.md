@@ -1,6 +1,16 @@
+<center>
+
 # Heyy ! I am [Muhammad Asim](https://asim-2000.github.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
-#### My GitHub Profile Visitors:
-![](https://komarev.com/ghpvc/?username=Asim-2000&label=Visitors&style=plastic&color=blueviolet)
+ 
+ </center>
+ <h3 style="text-align:center">My GitHub Profile Visitors</h3>
+<center>
+
+![](https://komarev.com/ghpvc/?username=Asim-2000&label=You+Just+Increased+A+Visitor&style=plastic&color=blueviolet)
+
+</center>
+
+
 <img src="https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg" alt="Asim Logo" class="center">
 
 <h2 style="text-align:center">About Me</h2>
