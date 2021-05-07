@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Asim-2000&label=Visitors&style=plastic&color=blueviolet)
 <img src="https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg" alt="Asim Logo" class="center">
 
-## About Me 
+<h2 style="text-align:center">About Me</h2>
 
 - 🔭 I’m currently working on **Django / Backend Development**
 
@@ -29,11 +29,15 @@
 
 </div>
  
+
+ <h2 style="text-align:center">My GitHub Stats</h2>
   
  ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true)
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
+
+ <h2 style="text-align:center"> Tools and Technologies</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -53,10 +57,6 @@
 
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
-
-
-
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -64,15 +64,6 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-
-
-
-
-
-
-
-
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
