@@ -1,14 +1,15 @@
-<center>
+<p align='center'>
 
 # Heyy ! I am [Muhammad Asim](https://asim-2000.github.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
  
- </center>
- <h3 style="text-align:center">My GitHub Profile Visitors</h3>
-<center>
+ </p>
+
+ <h3>My GitHub Profile Visitors</h3>
+<p algin="center">
 
 ![](https://komarev.com/ghpvc/?username=Asim-2000&label=You+Just+Increased+A+Visitor&style=plastic&color=blueviolet)
 
-</center>
+</p>
 
 
 <img src="https://github.com/Asim-2000/Asim-2000/blob/master/First%20Logo.jpg" alt="Asim Logo" class="center">
@@ -24,9 +25,11 @@
 - 💬 Ask me about **React, Python, Django**
 
 - 📫 Connect with me: ...
-<center>
+
+
 
 <div> 
+<p align="center">
 <a href="https://www.linkedin.com/in/asim-khaskheli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 <a href="https://twitter.com/asimdev2000"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -38,17 +41,18 @@
 <a href="https://www.instagram.com/asimhere___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
+</p>
 </div>
  
- </center>
 
- <h2 style="text-align:center">My GitHub Stats</h2>
+
+ <h2 align="center" >My GitHub Stats</h2>
   
-  <center>
+<p align="center">
 
  ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true)
 
-</center>
+</p>
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
@@ -56,7 +60,7 @@
 
 <center>
 
-<p align="center>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
