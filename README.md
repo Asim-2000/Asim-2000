@@ -1,13 +1,13 @@
 <p align="center">
 
-# Heyy ! I am [Muhammad Asim](https://asim-2000.github.io/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving">
- 
+<h1 align="center">Heyy ! I am <a href="">Muhammad Asim</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" alt="Waving"> </h1>
+
  </p>
 
- <h3>My GitHub Profile Visitors</h3>
-<p algin="center">
+ <h3 align="center">My GitHub Profile Visitors</h3>
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=Asim-2000&label=You+Just+Increased+A+Visitor&style=plastic&color=blueviolet)
+<img align="center" src="https://komarev.com/ghpvc/?username=Asim-2000&label=You+Just+Increased+A+Visitor&style=plastic&color=blueviolet">
 
 </p>
 I'm
@@ -57,7 +57,7 @@ I'm
   
 <p align="center">
 
- ![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true"/> 
 
 </p>
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -65,7 +65,7 @@ I'm
 
  <h2 align="center"> Tools and Technologies</h2>
 
-<center>
+
 
 <p align="center">
 
