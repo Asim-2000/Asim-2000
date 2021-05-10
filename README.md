@@ -32,7 +32,8 @@ I'm
 
 <img align="right"  width="300px" src="./Asim.png" />
 
-
+</br>
+</br>
 
 - 🔭 I’m currently working on **Django / Backend Development**
 
