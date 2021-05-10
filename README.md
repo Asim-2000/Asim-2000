@@ -10,12 +10,20 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=Asim-2000&label=You+Just+Increased+A+Visitor&style=plastic&color=blueviolet">
 
 </p>
+
+<img align="right"  width="200px" src="./Asim.png" />
+<p>
+</br>
 I'm
 
 - Full Stack Developer 💻
 - Speaker🎤
 - Writer✒️
-</br>
+
+</p>
+<br />
+<br />
+
 
 <p align="center">
 <img align="center" width="450px" src="https://raw.githubusercontent.com/Asim-2000/Asim-2000/master/First%20Logo.jpg" />
