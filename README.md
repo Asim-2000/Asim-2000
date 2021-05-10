@@ -11,7 +11,6 @@
 
 </p>
 
-<img align="right"  width="300px" src="./Asim.png" />
 <p>
 </br>
 I'm
@@ -21,11 +20,9 @@ I'm
 - Writer✒️
 
 </p>
-<br />
-<br />
-<br/>
-</br>
 
+
+<img align="right"  width="300px" src="./Asim.png" />
 
 <p align="center">
 <img align="center" width="450px" src="https://raw.githubusercontent.com/Asim-2000/Asim-2000/master/First%20Logo.jpg" />
