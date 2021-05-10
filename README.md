@@ -11,7 +11,7 @@
 
 </p>
 
-<img align="right"  width="200px" src="./Asim.png" />
+<img align="right"  width="300px" src="./Asim.png" />
 <p>
 </br>
 I'm
@@ -23,6 +23,8 @@ I'm
 </p>
 <br />
 <br />
+<br/>
+</br>
 
 
 <p align="center">
