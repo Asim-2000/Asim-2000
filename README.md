@@ -17,7 +17,7 @@
 </br>
 I'm
 
-- Full Stack Developer 💻
+- AI Product Engineer 💻
 - Speaker🎤
 - Writer✒️
 
@@ -37,13 +37,13 @@ I'm
 </br>
 </br>
 
-- 🔭 I’m currently working on **Django / Backend Development**
+- 📚 I’m currently pursuing my Masters in Computer Science (Specialisation in Intelligent Systems & Software Engineering)
 
-- 🌱 I’m currently learning **Docker**
+- 🔭 I’m currently working on **Agentic AI**
 
-- 🤝 I’m looking for help with **Docker & Kubernetes**
+- 🌱 I’m currently learning **Image Generation & Enhancement Technqiues**
 
-- 💬 Ask me about **React, Python, Django**
+- 💬 Ask me about **AI, Python, LLMs**
 
 - 📫 Connect with me: ...
 
