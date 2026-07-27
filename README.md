@@ -64,18 +64,7 @@ I'm
 
 </p>
 </div>
- 
 
-
- <h2 align="center" >My GitHub Stats</h2>
-  
-<p align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asim-2000&show_icons=true&theme=radical&count_private=true"/> 
-
-</p>
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asim-2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
  <h2 align="center"> Tools and Technologies</h2>
 
