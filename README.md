@@ -2,7 +2,7 @@
 
 AI Engineer • Data Scientist • Product Manager — building ML/LLM-powered solutions for 4+ years, from generative AI pipelines to data-driven analytics.
 
-- 🎯 Core focus: **LLMs / RAG**
+- 🎯 Core focus: **LLMs / RAG / Evaluation**
 - 🎓 M.S. Intelligent Systems @ RPTU Kaiserslautern-Landau, Germany
 - 💼 Previously: AI Engineer @ Allia Health, Growth & Data Engineer @ DealCart 
 - 📫 asim.khaskheli@outlook.com / asim@uselemonpad.com
