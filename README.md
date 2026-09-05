@@ -1,4 +1,4 @@
-# Hi, I'm Asim Khaskheli 👋
+# Hi, I'm Asim 👋
 
 AI Engineer • Data Scientist • Product Manager — building ML/LLM-powered solutions for 4+ years, from generative AI pipelines to data-driven analytics.
 
